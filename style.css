@@ -1,0 +1,87 @@
+header h1 a{
+    font-family: Quantico;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #272C3D;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+    color: white;
+}
+label img{
+    position: relative;
+    left: 100px ;
+}
+input{
+    height: 30px;
+}
+nav{
+    align-items: center;
+}
+select{
+    width: 150px;
+    height:30px ;
+}
+nav{
+    display: flex;
+    gap: 100px;
+}
+.r1{
+    background-image: url(/Bg.png);
+  background-size: cover;
+  width: 1500px;
+ 
+
+}
+
+.anor{
+    text-align: center;
+    background-color: black;
+
+}
+.r3{
+     font-family: Quantico; 
+     color: #FF9C28;
+}
+.r2{
+
+    color: white; 
+    font-family: Quantico; 
+}
+.abu{
+    display: flex;
+   justify-content: space-around;
+   align-items: center;
+   gap: 10px;
+   margin-left: 100px;
+
+}
+.abi{
+    width: 600px;
+}
+.ople h2{
+
+    font-family: Quantico;
+}
+.ople{
+    background-color: #1B1E27;
+    color: white;
+}
+.bg{
+    background-color:#1B1E27 ;
+    width: 1400px;
+    margin-left: 40px;
+}
+.bg2{
+    background-color: black;
+}
+footer{
+    background-color: #272C3D;
+    display: flex;
+    justify-content: space-around;
+}
